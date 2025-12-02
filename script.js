@@ -513,9 +513,9 @@ document.addEventListener("DOMContentLoaded", () => {
 // Logic xử lý click vào ảnh popup (popupImg)
 popupImg.addEventListener("click", () => {
     const message = `Me ri chít mớt Chòe nhó<br>
-Chúc chòe giáng sinh vui vẻ và hạnh phúc nha. Tuy anh chưa đủ quan tâm và vẫn còn làm em tổn thương nhiều nhưng em vẫn yêu thương và tôn trọng anh.<br>
-Mong món quà này sẽ làm giáng sinh này thêm phần ấm áp hơn. Iu em nhiều lắm 😘😘😘😘<br>
-"All I want for Christmas is you."`;
+Chúc chòe giáng sinh vui vẻ và hạnh phúc nha. Tuy anh chưa đủ quan tâm và vẫn còn làm em tổn thương nhiều nhưng em vẫn yêu thương và tôn trọng anh. Mong món quà này sẽ làm giáng sinh thêm phần ấm áp hơn . Iu em nhiều lắm 😘😘😘😘<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"All i want for Christmas is you."`;
+
 
     // Đây là lần click thứ hai: chuyển từ close.png sang hopopen.png, bay thư, và hiện nội dung nền trắng
     if (!isLetterShown) {
